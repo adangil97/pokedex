@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Jetpack Compose Pokedex</string>
+    <string name="msg_content_img">Imagen</string>
+    <string name="msg_default_search">Escribe el nombre de tu pokemon…</string>
 </resources>
